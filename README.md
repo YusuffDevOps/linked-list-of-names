@@ -55,7 +55,7 @@ After building, run:
 ./names_list
 ```
 
-##Testing
+### **Testing**
 Use the provided testing script:
 
 ```sh
@@ -63,7 +63,7 @@ bash my_tests.sh
 ```
 It automatically runs test cases to verify correctness.
 
-###Experimental Results
+### **Experimental Results**
 The project successfully implements a modular, efficient, and memory-safe linked list. Tests confirm that:
 
 Insertions and deletions work as expected.
