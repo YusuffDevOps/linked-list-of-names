@@ -1,0 +1,30 @@
+Filename: names_list.txt
+========================================
+ProgramDescription
+
+This program takes a single command-line input, which is expected to be a
+textfile containing one or more first names, each one three characters long.
+The names may be spread over any number of lines and there may be any number
+of blank spaces before and/or after each name. The program begins by reading
+all the names from the file and putting them into a linked list, in the order
+they were read from the file. If the input file cannot be opened, an error
+message is displayed, after which the program terminates.
+
+Then the program performs the following actions on this linked list:
+
+1. First, it prints out the names, five per line, each in a fieldwidth of
+   six spaces.
+
+2. Second, it ensures that all names have been capitalized and then prints
+   them out again, in the same format.
+
+3. Third, it sorts the names in reverse alphabetical order and again prints
+   them out in the same format.
+
+4. Fourth, and finally, it moves the first name to the last position and
+   prints out the names one last time, in the same format.
+
+                                                                Screen 1 of 1
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+----------------------------------------
+========================================
